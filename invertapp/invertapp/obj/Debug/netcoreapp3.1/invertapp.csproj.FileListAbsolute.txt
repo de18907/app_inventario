@@ -1,0 +1,4 @@
+C:\Users\18297\Documents\invertapp\invertapp\obj\Debug\netcoreapp3.1\invertapp.csprojAssemblyReference.cache
+C:\Users\18297\Documents\invertapp\invertapp\obj\Debug\netcoreapp3.1\invertapp.AssemblyInfoInputs.cache
+C:\Users\18297\Documents\invertapp\invertapp\obj\Debug\netcoreapp3.1\invertapp.AssemblyInfo.cs
+C:\Users\18297\Documents\invertapp\invertapp\obj\Debug\netcoreapp3.1\invertapp.csproj.CoreCompileInputs.cache
